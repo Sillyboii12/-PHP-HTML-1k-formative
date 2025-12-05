@@ -14,8 +14,8 @@
     </form>
 
     <ul>
-        <li><a href="about.php">About</a></li>
-        <li><a href="index.html">Home</a></li>
+        <li><a href="/about.php">About</a></li>
+        <li><a href="/index.html">Home</a></li>
     </ul>
 </body>
 </html>

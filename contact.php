@@ -12,5 +12,10 @@
         <input type="text" name="rate" placeholder="Atsauksme..."><br>
         <input type="submit" value="Submit">
     </form>
+
+    <ul>
+        <li><a href="about.php">About</a></li>
+        <li><a href="index.html">Home</a></li>
+    </ul>
 </body>
 </html>

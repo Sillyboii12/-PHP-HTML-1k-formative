@@ -13,6 +13,10 @@ echo "<p>Response: " . htmlspecialchars($_POST["rate"]) . "</p>";
     <title>Document</title>
 </head>
 <body>
-    <a href="/contact.php">Return</a>
+    <ul>
+        <li><a href="about.php">About</a></li>
+        <li><a href="contact.php">Contact</a></li>
+        <li><a href="index.html">Home</a></li>
+    </ul>
 </body>
 </html>

@@ -21,5 +21,10 @@
         }
         echo "</ul>";
     ?>
+
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.php">Contact</a></li>
+    </ul>
 </body>
 </html>
